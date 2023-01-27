@@ -1,8 +1,5 @@
-module github.com/dop251/goja_nodejs
+module github.com/pschlump/goja_nodejs
 
-go 1.16
+go 1.19
 
-require (
-	github.com/dop251/goja v0.0.0-20221118162653-d4bf6fde1b86
-	golang.org/x/net v0.4.0
-)
+require golang.org/x/net v0.4.0

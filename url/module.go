@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/net/idna"
 
-	"github.com/dop251/goja"
-	"github.com/dop251/goja_nodejs/require"
+	"github.com/pschlump/goja"
+	"github.com/pschlump/goja_nodejs/require"
 )
 
 const ModuleName = "node:url"
